@@ -2,3 +2,6 @@
 Typecho theme
 
 这为Typecho定制的一款博客模板，2010年的作品
+
+
+http://www.samool.com
